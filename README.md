@@ -3,7 +3,6 @@
 This repo describes a visual representation of MLOps Lifecycle with MLOps Tools at each stage of lifecycle.
 
 ## High-level Architecture
-
 <img width="1920" height="1080" alt="MLOps Lifecycle diagram" src="https://github.com/user-attachments/assets/b2db9898-587a-4d33-9a3a-d384bff4deee" />
 
 ## Lifecycle Stages & Tooling
